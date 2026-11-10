@@ -642,6 +642,7 @@ const ACS_FOOTER = `
     <div class="footer-col">
       <h4>Company</h4>
       <a href="${root}pages/about.html">About Us</a>
+      <a href="${root}pages/why-us.html">Why Choose ACS</a>
       <a href="${root}pages/blog.html">Blog</a>
       <a href="${root}pages/contact.html">Contact Us</a>
       <a href="${root}pages/student-login.html">Student Login</a>

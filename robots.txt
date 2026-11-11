@@ -1,4 +1,4 @@
-# robots.txt for https://admissionsandcareerservices.com
+# robots.txt for https://www.admissionsandcareerservices.com
 User-agent: *
 Allow: /
 
@@ -6,4 +6,4 @@ Allow: /
 Disallow: /pages/login.html
 Disallow: /pages/student-login.html
 
-Sitemap: https://admissionsandcareerservices.com/sitemap.xml
+Sitemap: https://www.admissionsandcareerservices.com/sitemap.xml
